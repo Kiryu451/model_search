@@ -1,5 +1,9 @@
 six==1.15.0
+<<<<<<< HEAD
 seven==1.20.0
+=======
+eight==2.20.0
+>>>>>>> branch1
 sklearn==0.0
 tensorflow==2.6.0
 tensorflow-estimator==2.6.0

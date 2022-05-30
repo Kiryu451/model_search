@@ -24,7 +24,11 @@ version supports classification problems only. Let's start by looking at some
 classic classification problems and see how the framework can automatically find competitive
 model architectures.
 
+<<<<<<< HEAD
 lorem lorem lorem
+=======
+lorem lorem
+>>>>>>> branch1
 
 ## Getting Started
 Let us start with the simplest case. You have a csv file where the features are numbers
